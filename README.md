@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="badge.svg" width="340"/>
+</div>
 # Project WILK: a Multi-Modal Edge AI Sentinel 🐺
 
 **Evolve Hack 2026 | Theme 3: Intelligence in Motion** 
